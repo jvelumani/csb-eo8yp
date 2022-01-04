@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jvelumani.github.io/csb-eo8yp/static/css/main.74a2569a.chunk.css",
+    "main.js": "https://jvelumani.github.io/csb-eo8yp/static/js/main.48d02c00.chunk.js",
+    "main.js.map": "https://jvelumani.github.io/csb-eo8yp/static/js/main.48d02c00.chunk.js.map",
+    "runtime-main.js": "https://jvelumani.github.io/csb-eo8yp/static/js/runtime-main.8a5fb5bb.js",
+    "runtime-main.js.map": "https://jvelumani.github.io/csb-eo8yp/static/js/runtime-main.8a5fb5bb.js.map",
+    "static/js/2.1806713c.chunk.js": "https://jvelumani.github.io/csb-eo8yp/static/js/2.1806713c.chunk.js",
+    "static/js/2.1806713c.chunk.js.map": "https://jvelumani.github.io/csb-eo8yp/static/js/2.1806713c.chunk.js.map",
+    "index.html": "https://jvelumani.github.io/csb-eo8yp/index.html",
+    "static/css/main.74a2569a.chunk.css.map": "https://jvelumani.github.io/csb-eo8yp/static/css/main.74a2569a.chunk.css.map",
+    "static/js/2.1806713c.chunk.js.LICENSE.txt": "https://jvelumani.github.io/csb-eo8yp/static/js/2.1806713c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a5fb5bb.js",
+    "static/js/2.1806713c.chunk.js",
+    "static/css/main.74a2569a.chunk.css",
+    "static/js/main.48d02c00.chunk.js"
+  ]
+}
